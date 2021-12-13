@@ -753,8 +753,7 @@ textarea {
     margin-right: calc(var(--gutter-lg) * -1);
 }
 
-/* columns
- * -------------------------------------- */
+
 .column {
     -ms-flex: 1 1 0%;
     -webkit-box-flex: 1;
